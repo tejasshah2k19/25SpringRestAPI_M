@@ -1,0 +1,14 @@
+
+
+
+@RestController
+
+
+new add -> api -> POST 
+	read ->  GET 
+	remove -> DELETE 
+	modify -> PUT 
+	
+	PUT vs PATCH 
+---------------------------------------------------
+	json 
