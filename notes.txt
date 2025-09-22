@@ -12,3 +12,55 @@ new add -> api -> POST
 	PUT vs PATCH 
 ---------------------------------------------------
 	json 
+	
+---------------------------------------------------
+hibernate ->
+				table -----------> class 
+				columns ---------> variable
+				
+				class -> object -> save() -> insert -> 
+				
+				
+	ORM -> Object Relational mapping 
+---------------------------------------------------
+
+	save() 
+	findAll()
+	findById(id)
+	deleteById(id)
+	
+	JPA -> specification ->	
+	hibernate -> implementation -> 
+
+---------------------------------------------------	
+	
+	step 1:	
+			spring data jpa 
+			mysql driver 
+			
+	step 2:	
+			application.properties 
+					db configuration
+					hibernate configuration
+					
+----------------------------------------------------	
+	@Entity
+	@Table
+	@Id
+	@GeneratedValue(sta)
+	@Column 
+	
+	
+	query -> run -> 
+	dao -> 
+	repository -> interface -> 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
