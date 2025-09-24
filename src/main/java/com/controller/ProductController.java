@@ -26,7 +26,7 @@ public class ProductController {
 	}
 }
 //rest client ->POST MAN 
-
+  
 //jdbc : 
 	// spring data jdbc 
 	// mysql driver 
